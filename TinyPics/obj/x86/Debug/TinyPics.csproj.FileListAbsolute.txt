@@ -1,0 +1,8 @@
+C:\Projects\tinypics\TinyPics\bin\Debug\TinyPics.exe.config
+C:\Projects\tinypics\TinyPics\bin\Debug\TinyPics.exe
+C:\Projects\tinypics\TinyPics\bin\Debug\TinyPics.pdb
+C:\Projects\tinypics\TinyPics\obj\x86\Debug\TinyPic.TinyPics.resources
+C:\Projects\tinypics\TinyPics\obj\x86\Debug\TinyPics.Properties.Resources.resources
+C:\Projects\tinypics\TinyPics\obj\x86\Debug\TinyPics.csproj.GenerateResource.Cache
+C:\Projects\tinypics\TinyPics\obj\x86\Debug\TinyPics.exe
+C:\Projects\tinypics\TinyPics\obj\x86\Debug\TinyPics.pdb
